@@ -79,6 +79,8 @@ def main(site_url):
                 
 
 if __name__ == "__main__":
+    if len(sys.argv) == 2:
+        site_url = sys.argv[1]
     word_count = main(site_url)
     inverted_dict = {value:key for key,value in word_count.items()}
     word_frequency = list(inverted_dict.keys())
