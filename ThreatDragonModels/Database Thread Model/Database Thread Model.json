@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Database Thread Model",
+    "owner": "Manoj"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Sample Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Neeraj"
+  }
+}
